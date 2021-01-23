@@ -1,3 +1,7 @@
+# My Tetris Game :)
+
+I started this project with the sole reason of getting to learn React in more depth. I love playing Tetris, so this was the most obvious solution to me. This project is derived from [this tutorial](https://www.youtube.com/watch?v=ZGOaCxX8HIU&t=5447s) by freeCodeCamp.org on YouTube. I expanded upon the game they created and added additional functionalities, such as holding pieces and the ghost piece.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
